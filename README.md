@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lukas Huvar
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning main C# and Java, 
-- 💞️ I’m looking to collaborate on full-time job as sofware developer.
+- 💞️ I’m looking to collaborate on full-time job as software developer.
 - 📫 How to reach me ...
 
 <!---
