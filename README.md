@@ -9,7 +9,7 @@
   
 -  💞️ I’m looking to collaborate on **full-time job as software developer, tester or project manager.**
 
-- 📫 How to reach me **www.linkedin.com/in/lukashuvar, contact me to Lukashuvar1995@gmail.com**
+- 📫 How to reach me and contact me to **www.linkedin.com/in/lukashuvar**
 
 - 📄 Know about my experiences [a project manager and other employmentdetails is avaible in my CV](a project manager and other employmentdetails is avaible in my CV)
 
